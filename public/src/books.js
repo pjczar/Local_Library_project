@@ -15,7 +15,7 @@ function findAuthorById(authors, id) {
 }
 
 function findBookById(books, id) {
-  const result = idseeker(books, id);
+  const result = idSeeker(books, id);
   return result;
 }
 
